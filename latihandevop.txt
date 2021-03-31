@@ -2,3 +2,6 @@ Hallo devops!
 line 1
 line 2
 line 3
+Baru line 1
+Baru line 2
+Baru line 3
